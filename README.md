@@ -3,18 +3,18 @@
 FlightInfoApp is a simple Android UI application built using Android Studio and Skyscanner Backpack UI components. It presents essential flight details (flight number, departure, arrival, and time) in a clean, responsive, and visually appealing card interface.
 
 # Features
-Display of flight number, departure and arrival airports, and time.
-Responsive flight info card layout.
-Clear and modern UI using Backpack design system.
-Clickable "Book Now" button with future extensibility for navigation.
+Display of flight number, departure and arrival airports, and time.  
+Responsive flight info card layout.  
+Clear and modern UI using Backpack design system.  
+Clickable "Book Now" button with future extensibility for navigation.  
 
 # Tech Stack
-Technology Used:
-Language:	Kotlin 
-IDE:	Android Studio
-UI Library:	Skyscanner Backpack for Android
-Layout:	XML-based UI design with ConstraintLayout 
-Version: Control	Git + GitHub
+Technology Used:  
+Language:	Kotlin   
+IDE:	Android Studio  
+UI Library:	Skyscanner Backpack for Android  
+Layout:	XML-based UI design with ConstraintLayout  
+Version: Control	Git + GitHub  
 
 
 📸 App Screenshot
